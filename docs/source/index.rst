@@ -10,7 +10,7 @@ Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
-
+    This file has been edited and published to show the edit
    This project is under active development.
 
 Contents
